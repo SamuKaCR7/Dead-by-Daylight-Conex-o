@@ -11,8 +11,8 @@ a { text-decoration: none; }
 }
 
 .box { 
-    width: 350px; 
-    height: 610px; 
+    width: 370px; 
+    height: 810px; 
     border-radius: 10px; 
     display: flex;
     flex-direction: column;
